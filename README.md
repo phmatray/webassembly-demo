@@ -2,6 +2,21 @@
 
 # WebAssembly demo with React and Go 1.12
 
+<!-- portfolio-badges:start -->
+<!-- Identity -->
+[![phmatray - webassembly-demo](https://img.shields.io/static/v1?label=phmatray&message=webassembly-demo&color=blue&logo=github)](https://github.com/phmatray/webassembly-demo)
+![Top language](https://img.shields.io/github/languages/top/phmatray/webassembly-demo)
+[![Stars](https://img.shields.io/github/stars/phmatray/webassembly-demo?style=social)](https://github.com/phmatray/webassembly-demo/stargazers)
+[![Forks](https://img.shields.io/github/forks/phmatray/webassembly-demo?style=social)](https://github.com/phmatray/webassembly-demo/network/members)
+[![License](https://img.shields.io/github/license/phmatray/webassembly-demo)](https://github.com/phmatray/webassembly-demo/blob/HEAD/LICENSE)
+
+<!-- Activity -->
+[![Issues](https://img.shields.io/github/issues/phmatray/webassembly-demo)](https://github.com/phmatray/webassembly-demo/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/phmatray/webassembly-demo)](https://github.com/phmatray/webassembly-demo/pulls)
+[![Last commit](https://img.shields.io/github/last-commit/phmatray/webassembly-demo)](https://github.com/phmatray/webassembly-demo/commits)
+<!-- portfolio-badges:end -->
+
+
 A Go-based WebAssembly sample with React app!
 
 ![Demo capture](capture.png?raw=true 'Demo capture')
