@@ -16,6 +16,23 @@
 [![Last commit](https://img.shields.io/github/last-commit/phmatray/webassembly-demo)](https://github.com/phmatray/webassembly-demo/commits)
 <!-- portfolio-badges:end -->
 
+<!-- portfolio-toc:start -->
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tech Stack](#tech-stack)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Some ideas for pull requests](#some-ideas-for-pull-requests)
+- [Resources](#resources)
+- [Licence](#licence)
+
+<!-- portfolio-toc:end -->
+
+
 
 A Go-based WebAssembly sample with React app!
 
