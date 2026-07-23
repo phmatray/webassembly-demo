@@ -1,3 +1,5 @@
+![webassembly-demo banner](.github/banner.png)
+
 # WebAssembly demo with React and Go 1.12
 
 A Go-based WebAssembly sample with React app!
